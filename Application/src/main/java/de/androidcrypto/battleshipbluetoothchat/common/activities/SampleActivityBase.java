@@ -14,13 +14,13 @@
 * limitations under the License.
 */
 
-package com.example.android.common.activities;
+package de.androidcrypto.battleshipbluetoothchat.common.activities;
 
 import android.os.Bundle;
 import androidx.fragment.app.FragmentActivity;
 
-import com.example.android.common.logger.Log;
-import com.example.android.common.logger.LogWrapper;
+import de.androidcrypto.battleshipbluetoothchat.common.logger.Log;
+import de.androidcrypto.battleshipbluetoothchat.common.logger.LogWrapper;
 
 /**
  * Base launcher activity, to handle most of the common plumbing for samples.

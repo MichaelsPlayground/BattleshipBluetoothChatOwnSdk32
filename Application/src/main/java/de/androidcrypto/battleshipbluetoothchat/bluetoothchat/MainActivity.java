@@ -15,7 +15,7 @@
  */
 
 
-package com.example.android.bluetoothchat;
+package de.androidcrypto.battleshipbluetoothchat.bluetoothchat;
 
 import android.Manifest;
 import android.app.Activity;
@@ -31,11 +31,12 @@ import androidx.core.app.ActivityCompat;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentTransaction;
 
-import com.example.android.common.activities.SampleActivityBase;
-import com.example.android.common.logger.Log;
-import com.example.android.common.logger.LogFragment;
-import com.example.android.common.logger.LogWrapper;
-import com.example.android.common.logger.MessageOnlyLogFilter;
+import de.androidcrypto.battleshipbluetoothchat.R;
+import de.androidcrypto.battleshipbluetoothchat.common.activities.SampleActivityBase;
+import de.androidcrypto.battleshipbluetoothchat.common.logger.Log;
+import de.androidcrypto.battleshipbluetoothchat.common.logger.LogFragment;
+import de.androidcrypto.battleshipbluetoothchat.common.logger.LogWrapper;
+import de.androidcrypto.battleshipbluetoothchat.common.logger.MessageOnlyLogFilter;
 
 /**
  * A simple launcher activity containing a summary sample description, sample log and a custom

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.bluetoothchat;
+package de.androidcrypto.battleshipbluetoothchat.bluetoothchat;
 
 import android.Manifest;
 import android.app.ActionBar;
@@ -47,7 +47,8 @@ import androidx.core.app.ActivityCompat;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentActivity;
 
-import com.example.android.common.logger.Log;
+import de.androidcrypto.battleshipbluetoothchat.R;
+import de.androidcrypto.battleshipbluetoothchat.common.logger.Log;
 
 /**
  * This fragment controls Bluetooth to communicate with other devices.

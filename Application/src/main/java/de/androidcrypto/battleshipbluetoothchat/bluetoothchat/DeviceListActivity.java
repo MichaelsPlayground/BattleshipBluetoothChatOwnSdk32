@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.bluetoothchat;
+package de.androidcrypto.battleshipbluetoothchat.bluetoothchat;
 
 import android.Manifest;
 import android.app.Activity;
@@ -36,7 +36,8 @@ import android.widget.TextView;
 
 import androidx.core.app.ActivityCompat;
 
-import com.example.android.common.logger.Log;
+import de.androidcrypto.battleshipbluetoothchat.R;
+import de.androidcrypto.battleshipbluetoothchat.common.logger.Log;
 
 import java.util.Set;
 
